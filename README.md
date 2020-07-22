@@ -1,3 +1,5 @@
+NDVI Google Earth Engine
+
 Criar e recortar através de camada máscara um raster de índice de vegetação NDVI
 com Google Earth Engine.
 
